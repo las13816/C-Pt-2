@@ -129,6 +129,10 @@
   <ItemGroup>
     <ClCompile Include="C++ Pt 2.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="SalaryData.txt" />
+    <Text Include="SalaryOut.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
